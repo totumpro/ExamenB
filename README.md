@@ -2,10 +2,10 @@
 
 + Agregar condiciones para que el menu funcione (ej. `if`, `switch`)
 
-+ Agregar funciones para cada caso del menu
++ Agregar funciones para cada operacion aritmetica del menu
 
-+ **No** subir archivo `.exe`
++ **No** subir archivo `.exe`, solo codigo fuente
 
-+ Aceptar valores introducidos por usuario (`cin << x ;`)
++ Aceptar valores introducidos por usuario (ej. `cin` o `scanf`)
 
-+ ¿La division es posible por 0? ¿Qué pasara? :see_no_evil:
++ Hacer las validaciones necesarias :see_no_evil:
