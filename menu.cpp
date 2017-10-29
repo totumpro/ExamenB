@@ -17,6 +17,7 @@ int main() {
         
         /*Agregar condiciones a continuacion... */
 
+        cout << suma(1,2) << endl;
     }while(opt!=5);
     
 
