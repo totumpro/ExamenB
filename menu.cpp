@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 #include "suma.h"
-
+/*Comentario en examen B Kevin Jaramillo Lievano*/
 using namespace std;
 
 int main() {
